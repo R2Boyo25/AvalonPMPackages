@@ -3,8 +3,8 @@
     "needsCompiled": true,
     "compileScript": ".avalon/compile.sh",
     "deps": {
-        "avalon": [
-            "golang/go"
+        "apt": [
+            "gccgo-go"
         ]
     }
 }
