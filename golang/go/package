@@ -1,4 +1,9 @@
 {
     "needsCompiled": true,
-    "compileScript": ".avalon/compile.sh"
+    "compileScript": ".avalon/compile.sh",
+    "deps": {
+        "apt": [
+            "gccgo-5"
+        ]
+    }
 }
