@@ -1,3 +1,4 @@
+pwd
 if make build
 then
     :
