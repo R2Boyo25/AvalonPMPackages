@@ -1,5 +1,10 @@
 {
     "binname": "micro",
     "needsCompiled": true,
-    "compileScript": ".avalon/compile.sh"
+    "compileScript": ".avalon/compile.sh",
+    "deps": {
+        "apt": [
+            "gccgo-go"
+        ]
+    }
 }
