@@ -1,4 +1,4 @@
 {
     "needsCompiled": true,
-    "compileScript": "compile.sh"
+    "compileScript": ".avalon/compile.sh"
 }
