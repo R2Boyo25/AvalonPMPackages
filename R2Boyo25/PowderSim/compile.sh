@@ -1,2 +1,2 @@
 cd C++
-bash comp
+c++ main.cpp -lX11 -o ../psim -Ofast

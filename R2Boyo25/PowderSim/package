@@ -1,4 +1,5 @@
 {
 	"needsCompiled":true,
 	"compileScript":".avalon/compile.sh"
+	"binname": "psim"
 }
