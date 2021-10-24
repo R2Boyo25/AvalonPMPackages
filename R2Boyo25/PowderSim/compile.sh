@@ -1,0 +1,2 @@
+cd C++
+bash comp
