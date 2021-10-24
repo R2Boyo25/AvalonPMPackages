@@ -1,0 +1,2 @@
+cd src
+./all.bash

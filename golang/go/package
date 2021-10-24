@@ -1,0 +1,4 @@
+{
+    "needsCompiled": true,
+    "compileScript": "compile.sh"
+}
