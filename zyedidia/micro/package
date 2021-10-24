@@ -1,0 +1,5 @@
+{
+    "binname": "micro",
+    "needsCompiled": true,
+    "compileScript": ".avalon/compile.sh",
+}
