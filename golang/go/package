@@ -3,7 +3,7 @@
     "compileScript": ".avalon/compile.sh",
     "deps": {
         "apt": [
-            "gccgo-5"
+            "gccgo-go"
         ]
     }
 }
