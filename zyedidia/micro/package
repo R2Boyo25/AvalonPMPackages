@@ -4,7 +4,7 @@
     "compileScript": ".avalon/compile.sh",
     "deps": {
         "apt": [
-            "gccgo-go"
+            "golang-go"
         ]
     }
 }
