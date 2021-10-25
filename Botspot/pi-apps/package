@@ -1,0 +1,9 @@
+{
+    "installScript": "install",
+    "arches": [
+        "armv7l"
+    ],
+    "distros": [
+        "Raspbian GNU/Linux"
+    ]
+}
