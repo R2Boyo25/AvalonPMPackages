@@ -15,3 +15,7 @@ R2Boyo25
         ├package
         └compile.sh
 ```
+
+# Note
+
+I plan on switching to a different system eventually so that this does not have a single main repository and people can instead create their own.
