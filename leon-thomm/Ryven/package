@@ -1,0 +1,8 @@
+{
+    "binname": "ryven",
+    "installScript": ".avalon/gen.py",
+    "mvBinAfterInstallScript": true,
+    "toCopy": [
+        "all"
+    ]
+}
