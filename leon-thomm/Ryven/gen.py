@@ -1,4 +1,4 @@
-import sys, os, shutil
+import sys
 
 binf = sys.argv[1]
 filesFolder = sys.argv[2]
