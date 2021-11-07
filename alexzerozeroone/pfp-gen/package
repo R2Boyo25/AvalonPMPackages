@@ -1,0 +1,7 @@
+{
+    "binname": "pfpgen",
+    "installScript": ".avalon/gen.py",
+    "toCopy": [
+        "main.py"
+    ]
+}
