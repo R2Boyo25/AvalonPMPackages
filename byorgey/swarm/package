@@ -1,0 +1,13 @@
+{
+    "installScript": ".avalon/gen.py",
+    "binname": "swarm",
+    "mvBinAfterInstallScript": true,
+    "deps": {
+        "apt": [
+            "haskell-stack"
+        ]
+    },
+    "toCopy": [
+        "all"
+    ]
+}
