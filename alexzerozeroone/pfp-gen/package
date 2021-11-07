@@ -1,6 +1,7 @@
 {
     "binname": "pfpgen",
     "installScript": ".avalon/gen.py",
+    "mvBinAfterInstallScript": true,
     "toCopy": [
         "main.py"
     ]
