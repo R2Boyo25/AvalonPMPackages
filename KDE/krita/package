@@ -1,0 +1,13 @@
+{
+	"needsCompiled": true,
+	"binname": "krita",
+	"binfile": "bin/krita",
+	"compileScript": ".avalon/build.sh",
+	"deps": {
+		"build-dep": [
+			"krita"
+		]
+	},
+	"author": "KDE",
+	"repo": "krita"
+}
