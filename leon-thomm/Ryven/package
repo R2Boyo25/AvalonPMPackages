@@ -1,5 +1,6 @@
 {
     "binname": "ryven",
+    "binfile": "ryven-runner",
     "installScript": ".avalon/gen.py",
     "mvBinAfterInstallScript": true,
     "toCopy": [
