@@ -1,0 +1,17 @@
+{
+	"author": "r2boyo25",
+	"repo": "gite",
+    "binname": "gite",
+    "installScript": ".avalon/gen.py",
+    "mvBinAfterInstallScript": true,
+    "deps": {
+        "apt": [
+            "git"
+        ]
+    },
+    "toCopy": [
+        "gitehelp.txt",
+        "gite.py",
+        "runner.py"
+    ]
+}
