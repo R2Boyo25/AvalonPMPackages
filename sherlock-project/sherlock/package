@@ -1,0 +1,10 @@
+{
+    "author": "sherlock-project",
+    "repo": "sherlock",
+    "binname": "sherlock",
+    "installScript": ".avalon/gen.py",
+    "mvBinAfterInstallScript": true,
+    "toCopy": [
+        "all"
+    ]
+}
