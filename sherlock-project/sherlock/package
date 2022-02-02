@@ -2,6 +2,7 @@
     "author": "sherlock-project",
     "repo": "sherlock",
     "binname": "sherlock",
+    "binfile": "sherlock-runner",
     "installScript": ".avalon/gen.py",
     "mvBinAfterInstallScript": true,
     "toCopy": [
