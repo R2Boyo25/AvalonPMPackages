@@ -1,0 +1,12 @@
+{
+	"author": "kindrat",
+	"repo": "cassandra-client",
+    "binname": "cassandra-client",
+    "needsCompiled": true,
+    "compileScript": ".avalon/build.sh",
+    "installScript": ".avalon/gen.py",
+    "mvBinAfterInstallScript": true,
+    "toCopy": [
+        "build"
+    ]
+}
